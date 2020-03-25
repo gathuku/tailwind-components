@@ -9,7 +9,7 @@
       </p>
     </div>
 
-    <div class="mt-12 text-left flex flex-col md:flex-row gap-5 max-w-lg mx-auto md:grid-col-3 lg:max-w-none">
+    <div class="mt-12 text-left grid gap-5 grid-cols-1 md:grid-cols-3 lg:grid-cols-3">
       <div class="rounded-lg shadow-lg overflow-hidden">
          <div>
            <img class="h-48 w-full object-cover" src="https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9" alt="">
